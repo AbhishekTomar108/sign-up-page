@@ -13,7 +13,7 @@ img{
 
 
 .fit-page{
-    margin-top:45px;
+    margin-top:25px;
     width:901px;
     display: grid;
     grid-template-columns: 40% 60%;
@@ -131,7 +131,7 @@ li{
 }
 
 .button-group{
-    position: absolute;
+    
     display: grid;
     
     grid-template-columns: 2% 2% 2% 2%;
@@ -289,26 +289,32 @@ p{
 
     .fit-page{
        
-        width:275px;
+        width:320px;
         display: block;
        
     }
 
     .box-signup{
-        width: 250px;
+        width: 300px;
         padding: 0 7px;
     }
 
+    .g-1
+    {
+        display: grid;
+        grid-template-columns: 25% 25% 50%;
+    }
     img{
-        width:250px;
+        width:300px;
     }
 
     #img-container{
-        width:250px;
+        width:300px;
     }
     
-    .below-input-text{
-        display: none;
+    .below-input-text {
+        
+        margin-bottom: 40px;
     }
 
     strong
@@ -341,8 +347,8 @@ p{
     
     #btn-submit
     {
-        margin-top: 38px;
-        width: 160px;
+        margin-top: 15px;
+    width: 283px;
     }
 
     p{
@@ -351,12 +357,12 @@ p{
     }
 
     #prize-state{
-        margin-left: 21%;
+        margin-left: 29%;
     font-size: 10px;
     }
 
     #money-text{
-        margin-left: 15%;
+        margin-left: 24%;
     font-size: 17px;
     }
 
@@ -367,6 +373,7 @@ p{
     #people-registered{
     margin-top: 15px;
     margin-left: 4px;
+    column-gap: 38%;
     }
 
     #date-text{
@@ -404,13 +411,12 @@ border-left: 7px solid transparent;
 }
 
 #line {
-    width: 200px;
+    width: 260px;
 }
 
 .button-group{
-    width:230px;
-    position: absolute;
+       
     display: grid;
-      grid-template-columns: 5% 5% 5% 5%;
+    grid-template-columns: 13% 13% 13% 13%;
 }
   }

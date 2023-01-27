@@ -1,4 +1,5 @@
 {
+  "homepage": "https://gitname.github.io/react-gh-pages",
   "name": "sign-up-page",
   "version": "1.0.0",
   "description": "",
@@ -11,5 +12,8 @@
     "url": "signup-page"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
