@@ -408,9 +408,13 @@ column-gap: 50%;
 
     #people-registered{
     margin-top: 15px;
-    width: 250px;
+    /* width: 250px;
     grid-template-columns: 30% auto;
-    column-gap: 67%;
+    column-gap: 67%; */
+    width: 300px;
+    grid-template-columns: 30% auto;
+    column-gap: 143px;
+
 
     /* width: 250px;
     grid-template-columns: 70px auto;
