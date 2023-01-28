@@ -249,7 +249,7 @@ li{
     font-family: 'Unbounded', cursive;
     font-size: 27px;
     color:white;
-    margin: 0 29%;
+    margin-left: 29%;
 }
 
 #prize-state
@@ -258,7 +258,7 @@ li{
     font-size: 8px;
     font-family: 'Unbounded', cursive;
     color: #959595;
-    margin: 0 37%;
+    margin-left: 37%;
 }
 
 .f-11
@@ -408,9 +408,9 @@ column-gap: 50%;
 
     #people-registered{
     margin-top: 15px;
-    width: 272px;
+    width: 250px;
     grid-template-columns: 100px 100px;
-    column-gap: 131px;  
+    column-gap: 130px;  
     
     }
 
