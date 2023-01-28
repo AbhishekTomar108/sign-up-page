@@ -412,8 +412,8 @@ column-gap: 50%;
     grid-template-columns: 30% auto;
     column-gap: 67%; */
     width: 300px;
-    grid-template-columns: 30% auto;
-    column-gap: 143px;
+    grid-template-columns: 100px auto;
+    column-gap: 132px;
 
 
     /* width: 250px;
