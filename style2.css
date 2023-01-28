@@ -376,6 +376,10 @@ column-gap: 50%;
         margin-top: 15px;
     width: 283px;
     }
+    #btn-submit:hover{
+        opacity: 0.8;
+    }
+
 
     .para{
         width: 282px;
@@ -390,11 +394,11 @@ column-gap: 50%;
     }
     #prize-state{
     font-size: 6px;
-    margin: 0px 34%;
+    margin-left:31%;
     }
 
     #money-text{
-        margin: 0px 27%;
+        margin-left: 24%;
     font-size: 17px;
     }
 
@@ -406,7 +410,7 @@ column-gap: 50%;
     margin-top: 15px;
     width: 272px;
     grid-template-columns: 100px 100px;
-    column-gap: 50%;  
+    column-gap: 131px;  
     
     }
 
